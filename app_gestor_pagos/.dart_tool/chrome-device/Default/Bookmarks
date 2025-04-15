@@ -1,0 +1,594 @@
+{
+   "checksum": "c5c068bf463106a6fc877bb1aad18616",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13324227806007311",
+            "date_last_used": "13374117382137146",
+            "guid": "ff9d0834-265a-4a5d-b420-feb5cbbe9523",
+            "id": "14",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/",
+            "visit_count": 13
+         }, {
+            "date_added": "13326015691217100",
+            "date_last_used": "13349907334573378",
+            "guid": "11a651bf-50d5-4141-b0d5-0d5d4e83f7f0",
+            "id": "15",
+            "name": "UTN-FRBB Aula Virtual",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://aulavirtual.frbb.utn.edu.ar/",
+            "visit_count": 0
+         }, {
+            "date_added": "13327880440551986",
+            "date_last_used": "13366998970447080",
+            "guid": "a745cdfc-aead-43a6-aad4-94a95a454cea",
+            "id": "16",
+            "name": "Crunchyroll - Disfruta del anime más popular y lee manga online",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.crunchyroll.com/es",
+            "visit_count": 0
+         }, {
+            "date_added": "13336598329703641",
+            "date_last_used": "0",
+            "guid": "2938e0d6-1549-4069-b5ed-91c191b93d41",
+            "id": "17",
+            "name": "Aprende el desarrollo de juegos con Unity | Cursos y tutoriales en diseño de juegos, VR, AR y 3D en tiempo real | Aprendizaje de Unity",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://learn.unity.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13336767018406345",
+            "date_last_used": "13341605451426844",
+            "guid": "4c57fe21-4f91-405f-92ed-d9fa41d15220",
+            "id": "18",
+            "name": "Explora el Editor de Unity - Unity Learn",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://learn.unity.com/tutorial/explore-the-unity-editor-1#-1",
+            "visit_count": 0
+         }, {
+            "date_added": "13336717388941379",
+            "date_last_used": "13341605451413917",
+            "guid": "f81347c4-78c5-4813-932b-630330973e40",
+            "id": "19",
+            "name": "Colabora con otros creadores, obtén ayuda o simplemente informa de un error | Comunidad | Unidad",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://unity.com/community",
+            "visit_count": 0
+         }, {
+            "date_added": "13336717595330937",
+            "date_last_used": "13341605450356836",
+            "guid": "898586e7-2582-43af-9305-9d873dbcc763",
+            "id": "20",
+            "name": "Unity - Manual: Manual de usuario de Unity 2022.3 (LTS)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.unity3d.com/Manual/UnityManual.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13340433611055542",
+            "date_last_used": "13341605450349685",
+            "guid": "f681ad01-993d-47e9-8927-e8cf81a805d8",
+            "id": "21",
+            "name": "Unity - Manual: Paquetes por palabras clave",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.unity3d.com/Manual/pack-keys.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13343351605691844",
+            "date_last_used": "0",
+            "guid": "09cdc090-eaaf-4a8e-b8ad-444a9774ba66",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CSS Color Palette Generator: hermosas paletas de colores gratis",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mybrandnewlogo.com/es/generador-de-paleta-de-colores",
+            "visit_count": 0
+         }, {
+            "date_added": "13345079745329137",
+            "date_last_used": "0",
+            "guid": "fa01562f-eb6a-4a81-ba6d-b3cbc81908c5",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "tecnicas de desarrollo movil( hacer )",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://learn.unity.com/tutorial/mobile-development-techniques#",
+            "visit_count": 0
+         }, {
+            "date_added": "13345145548534647",
+            "date_last_used": "0",
+            "guid": "0117e07b-6d8f-40e4-a4d7-c7e37d53d8a6",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Cargadores y spinners CSS",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://cssloaders.github.io/",
+            "visit_count": 0
+         }, {
+            "date_added": "13345145583566095",
+            "date_last_used": "0",
+            "guid": "67a26063-63a1-4a08-ab4f-1d8a69a8d016",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "OverAPI.com | Collecting all the cheat sheets",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://overapi.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13345841980559263",
+            "date_last_used": "0",
+            "guid": "970ebba3-9233-4186-b32f-9bac00c553de",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Nexus Youtube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.nexusclips.com/app/onboarding/start",
+            "visit_count": 0
+         }, {
+            "date_added": "13345842513847641",
+            "date_last_used": "0",
+            "guid": "582bf772-401e-4f88-a610-c4004e56fb0d",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Nexus Clips",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://nexusclips.com/app/edited-clips",
+            "visit_count": 0
+         }, {
+            "date_added": "13353344979778844",
+            "date_last_used": "0",
+            "guid": "76f6be33-7851-45c3-b1c9-0a692ac482cf",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Ejercicio",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://exercism.org/",
+            "visit_count": 0
+         }, {
+            "date_added": "13355868317935134",
+            "date_last_used": "13374614147571779",
+            "guid": "9a9a7b60-5109-408e-9593-e62017c3f9ab",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chat.openai.com/",
+            "visit_count": 6
+         }, {
+            "date_added": "13357870610279989",
+            "date_last_used": "0",
+            "guid": "4832b0fd-b6cb-4c8d-bb62-5fe47745c5c9",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitMind",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://gitmind.com/app/templates?lang=es",
+            "visit_count": 0
+         }, {
+            "date_added": "13359140938894528",
+            "date_last_used": "0",
+            "guid": "1c2c305e-23d8-4258-80f7-5937703a7cc9",
+            "id": "31",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Aprende Programando",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://aprendeprogramando.bue.edu.ar/",
+            "visit_count": 0
+         }, {
+            "date_added": "13359600233337844",
+            "date_last_used": "0",
+            "guid": "78942ab5-9332-481c-9af6-e9620a4c781b",
+            "id": "32",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Guía del usuario de JUnit 5",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://junit.org/junit5/docs/current/user-guide/#writing-tests",
+            "visit_count": 0
+         }, {
+            "date_added": "13359600252025465",
+            "date_last_used": "0",
+            "guid": "d89ab981-e615-44c8-91e5-c3d2c16f8e4e",
+            "id": "33",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Una guía para JUnit 5 | Baeldung",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.baeldung.com/junit-5",
+            "visit_count": 0
+         }, {
+            "date_added": "13359600260760793",
+            "date_last_used": "0",
+            "guid": "353f1a28-e503-4044-91da-62a832f56c29",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Aserciones en JUnit 4 y JUnit 5 | Baeldung",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.baeldung.com/junit-assertions#assertions-junit5",
+            "visit_count": 0
+         }, {
+            "date_added": "13360194088085475",
+            "date_last_used": "0",
+            "guid": "18e7dca3-cff6-4a29-bc26-431c3bfb84ac",
+            "id": "35",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Codédex | Home",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.codedex.io/home",
+            "visit_count": 0
+         }, {
+            "date_added": "13364605646618696",
+            "date_last_used": "0",
+            "guid": "7de74165-9d39-4652-b245-56d525e1db46",
+            "id": "36",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Hojas de ruta para desarrolladores - roadmap.sh",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://roadmap.sh/",
+            "visit_count": 0
+         }, {
+            "date_added": "13364606323794946",
+            "date_last_used": "0",
+            "guid": "003ad2d7-ad80-4329-b90c-d01526ffae8f",
+            "id": "37",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(1) X",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://x.com/jobs/1727449584140431699?mx=2",
+            "visit_count": 0
+         }, {
+            "date_added": "13364609629754780",
+            "date_last_used": "0",
+            "guid": "c3c8c367-11aa-4d8b-ac2b-7b80a64dcd45",
+            "id": "38",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gestiona tu carrera con nosotros - Manfred",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.getmanfred.com/portal",
+            "visit_count": 0
+         }, {
+            "date_added": "13364610399706943",
+            "date_last_used": "0",
+            "guid": "747ef6fe-3770-46c3-a44b-31e45846df9f",
+            "id": "39",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Hire Top Remote Software Developers for Full-Time Positions",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://arc.dev/d/get-started/developer/linkedin-resume",
+            "visit_count": 0
+         }, {
+            "date_added": "13364610443386639",
+            "date_last_used": "0",
+            "guid": "83cfc8cd-ee26-422e-8fb8-6b7a32b1cf1d",
+            "id": "40",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Encuentra y contrata a los mejores freelancers en Malt",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.malt.es/",
+            "visit_count": 0
+         }, {
+            "date_added": "13364613689306988",
+            "date_last_used": "0",
+            "guid": "43a17b34-7c07-4eb0-9690-2987e85ef8c3",
+            "id": "41",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "The best streaming ChatBot for Kick, Twitch, YouTube, Trovo and Discord",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://botrix.live/panel/profile?twitch=true&new=true",
+            "visit_count": 0
+         }, {
+            "date_added": "13365199574089946",
+            "date_last_used": "13374975876703381",
+            "guid": "981de4ab-1384-4616-b769-2fd78d8e7d9e",
+            "id": "42",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Miqueas-Correa",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/Miqueas-Correa",
+            "visit_count": 2
+         }, {
+            "date_added": "13369941307100823",
+            "date_last_used": "0",
+            "guid": "03d18a0b-8425-4def-b859-30ad4dc8879f",
+            "id": "43",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "W3Schools Pathfinder",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pathfinder.w3schools.com/",
+            "visit_count": 1
+         }, {
+            "date_added": "13369968932928856",
+            "date_last_used": "0",
+            "guid": "94465df8-2f72-4b39-8ac5-9d7f3692ed16",
+            "id": "44",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Hermosas imágenes y fotos gratuitas | Unsplash",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://unsplash.com/es",
+            "visit_count": 1
+         }, {
+            "date_added": "13371593892726685",
+            "date_last_used": "0",
+            "guid": "49d1d74e-d5cb-4417-907d-3eb55ca5bfa3",
+            "id": "45",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Claude",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://claude.ai/onboarding?returnTo=%2F%3F",
+            "visit_count": 1
+         }, {
+            "date_added": "13376503672910050",
+            "date_last_used": "0",
+            "guid": "4716da7d-89c3-439a-9200-38ed1ab3604a",
+            "id": "46",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "AskYourPDF: The Best PDF AI Chat App",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://askyourpdf.com/conversations?startChat=true",
+            "visit_count": 1
+         }, {
+            "date_added": "13382292072064018",
+            "date_last_used": "0",
+            "guid": "abaeb2dc-72ce-4367-bda2-31e965e38669",
+            "id": "47",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Inicio - Canva",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.canva.com/?msockid=10b4697b1f5a6c920fca7d421e876d7a",
+            "visit_count": 1
+         }, {
+            "date_added": "13388003700303148",
+            "date_last_used": "0",
+            "guid": "56528a2c-6cfe-4c5f-b58e-cf03c4f1e766",
+            "id": "48",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Documentación de la API de DevDocs",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://devdocs.io/",
+            "visit_count": 1
+         } ],
+         "date_added": "13388013041363093",
+         "date_last_used": "0",
+         "date_modified": "13388003700303148",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13388013041363096",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13242152606844426",
+            "date_last_used": "0",
+            "guid": "89b99f4e-5491-441a-8d65-0135f5d722ea",
+            "id": "6",
+            "name": "Principal - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://m.youtube.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13247950169378317",
+            "date_last_used": "0",
+            "guid": "8105815c-ea70-4f92-8c8b-17fe4fc36109",
+            "id": "7",
+            "name": "Minecraft Pe 1.16.40.02 - Descargar para Android APK Gratis Sin Licencia",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://armyofgrissbyoficial.com/descargar-minecraft-gratis-para-android-utima-version/",
+            "visit_count": 0
+         }, {
+            "date_added": "13269106674415461",
+            "date_last_used": "0",
+            "guid": "ebc45c55-e8da-4103-addb-ad296c4c8c82",
+            "id": "8",
+            "name": "Lista de cursos",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://learndigital.withgoogle.com/garagedigital/courses",
+            "visit_count": 0
+         }, {
+            "date_added": "13319766706536468",
+            "date_last_used": "0",
+            "guid": "f61c009a-daf7-45fa-99c5-7a98ed42505c",
+            "id": "9",
+            "name": "Clasificados - Toda la información en La Nueva.",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.lanueva.com/servicios/clasificados",
+            "visit_count": 0
+         }, {
+            "date_added": "13319921702323811",
+            "date_last_used": "0",
+            "guid": "b8349956-8b65-4524-bfee-c1799cf2c078",
+            "id": "10",
+            "name": "Favoritos",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.frbb.utn.edu.ar/sysacad/menuAlumno.asp",
+            "visit_count": 0
+         }, {
+            "date_added": "13320549516415415",
+            "date_last_used": "0",
+            "guid": "7301ac67-ac16-4282-9f6a-aa2c47635694",
+            "id": "11",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/?hl=es&gl=AR",
+            "visit_count": 0
+         }, {
+            "date_added": "13320629481221725",
+            "date_last_used": "0",
+            "guid": "5c3fbcee-da22-432e-9632-21a8f731135b",
+            "id": "12",
+            "name": "Nueva pestaña",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "chrome://newtab/",
+            "visit_count": 0
+         }, {
+            "date_added": "13320629519521890",
+            "date_last_used": "0",
+            "guid": "d48a982f-612e-4dd6-83ae-0a93f31e8cd8",
+            "id": "13",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/",
+            "visit_count": 0
+         } ],
+         "date_added": "13388013041363099",
+         "date_last_used": "0",
+         "date_modified": "13320629519521890",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos móviles",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCOP1ffKVAQAAEgAqGHl5Z3N2SVhRNXdJSk0wWVR1RC9YWnc9PUgDoAYHErUBCC8SsAEKHElad3hUbG54ZkdwMDhGVjloaGZxNjNVWTFvWT0SJGFiYWViMmRjLTcyY2UtNDM2Ny1iZGEyLTMxZTk2NWUzODY2ORgAIAAoADDikLbwyTI4qZS28MkyQKmUtvDJMkocUDJKWWFQN2ZrekhHY1Jocmh0Z3BBd0p6Um0wPVonIiX/////AAAABf5JNzBIOVVKOXlNbEdtYkxQdGQ1RjhBUzFwWkk9Zc7lSlrCPgJgBRK1AQguErABChxXS3JsL2Z6VlZ2Mm1lNUJUTlp6MjBueDQxcGs9EiQ0NzE2ZGE3ZC04OWMzLTQzOWEtOTIwMC0zOGVkMWFiMzYwNGEYACAAKAAwjJSmqLQyOJGWpqi0MkCRlqaotDJKHG9pU0NKNVlUWVNoSm9OVE80eVZSc1d3N0Rkdz1aJyIl/////wAAAAX9K2VUZjVBV3RGM3FWTGlmOW4xeUg1dHA2YjlVPWUAAAAAwj4CYAUStQEIJhKwAQocQXY0SnBLbElZRjE3THpLaFczRGZPNEM5TW8wPRIkYzNjOGMzNjctMTFhYS00ZDhiLWFjMmItN2I4MGE2NGRjZDQ1GAAgACgAMLK644CIMjiIvOOAiDJAiLzjgIgyShwwanZTWVBnUGRueTBwaVo0RXgyTGo1bVVVTW89WiciJf////8AAAAE93RobEJMMnpKUGtYVkFzalNjOUtScjRBeTBJdz1ltI/6wsI+AmAFErUBCCcSsAEKHDZFSURUWlpkUFZDUExMMUhQS1lDYkx4NXFzbz0SJDc0N2VmNmZlLTM3NzAtNDZjMy1hNDRiLTMxZTQ1ODQ2ZGY5ZhgAIAAoADC0uJKBiDI4kLmSgYgyQJC5koGIMkocYVRtRmVkQkRLTnpWR1hiVHpKeWVZUmdpTmtvPVonIiX/////AAAABPs4REhaeUZQUzVhd2VQSlMxdzZQQklRRVJPSHc9ZTSwSOzCPgJgBRK1AQgkErABChxwV3VYNFNjYUthbGdrRGVpTGZuWkNzVGllaUE9EiQ3ZGU3NDE2NS05ZDM5LTQ2NTItYjI0NS01NmQ1MjVlMWRiNDYYACAAKAAw5azw/ocyOMmu8P6HMkDJrvD+hzJKHGIxZHpvWkFzWXJnd2cySjhwblphcjc1S0Fubz1aJyIl/////wAAAATdSmtxdDBMSFc4N0Nac0VPM1B4TmQxSkJPM28wPWX45JVTwj4CYAUStQEIKRKwAQocNmtyU0sycWM3QlMrM3NNd3k1NG9CU3RUY3pzPRIkNDNhMTdiMzQtN2MwNy00ZWIwLTk2OTAtMjk4N2U4NWVmOGMzGAAgACgAMMCc24KIMjjsntuCiDJA7J7bgogyShx6amY1TjFZd3BBN2hKRkVTc255aE0yam9SUnM9WiciJf////8AAAAE/lFqcy9xcWxCRXEvdThUS1BsZUJmcFV5eU1yQT1lm/ajiMI+AmAFErUBCCMSsAEKHHRPZ3oyakxVNHF3K0JsVjBaeEhibHNvcTVMMD0SJDE4ZTdkY2EzLWNmZjYtNGEyOS1iYzI2LTQzMWMzYmZiODRhYxgAIAAoADDonKTH9zE49Z2kx/cxQPWdpMf3MUocR3diY29lcWZCVlZtaW8vOVdWVmkydy80dUEwPVonIiX/////AAAABLo5Z0xJYkE4RXp4bUdTNlhCdzNnS2pRdTBTTmc9ZTmzT9zCPgJgBRK1AQgsErABChxpTkQvRTZlVW9qWDdLNlViMDRsaUNVbWZDUmc9EiQ5NDQ2NWRmOC0yZjcyLTRiMzktOGFjNS05ZDdmMzY5MmVkMTYYACAAKAAw3LCl/JsyOMSypfybMkDEsqX8mzJKHGJGVVZyTFd6THo1Q2poYTFqUXlBNUNjSDl4OD1aJyIl/////wAAAAXoWDhINWVGVkdONU1qREZ1QlNsOHhoVStLM0hRPWW+Wg78wj4CYAUStAEIIhKvAQocYUdqTkliaEJSNm04eDl3akVWbTZUb2VCME0wPRIkMzUzZjFhMjgtZTUwMy00MDQ0LTkxZGEtNjJhODMyZjU2YzI5GAAgACgAMJ3sj6z1MTj77Y+s9TFA++2PrPUxShxNd3FDM0Q2V2p6TFpKK0pwK2laZDZGUVN4ajQ9WiYiJP////8AAAAEdFh2aEtNV1JXVjZpU21ZeXdWaDkwWktSSTRzPWVLboc4wj4CYAUStQEIKhKwAQocK240U0xzZWt0Q2ltUkxjWW8vZ2J5T2Y2dmlNPRIkOTgxZGU0YWItMTM4NC00NjE2LWI3NjktMmZkNzhkOGU3ZDllGAAgACgAMKGX17XHMjiu9YqaijJArvWKmooyShwxWXF2cHQwWk54Y09jT2FwbEowSGE0ZmlobUU9WiciJf////8AAAAFoy9LRXJJWjNHM0JTZm1VOEVLQVBua0g4T3RJbz1lyPM/u8I+AmAFErABCB8SqwEKHCtoa3I0UEFjRG5DY3hzY0MwZm9MaFlJekk5ND0SJDFjMmMzMDVlLTIzZDgtNDI1OC04MGY3LTU5Mzc3MDNhN2NjORgAIAAoADDDhI3R8zE4soWN0fMxQLKFjdHzMUocUWdERFh0cTZWbndCa0Qrd2NnQnZDUG1JUXlVPVoiIiD////6b3VHME03WVBSN1JndlhGMm9yNVFyWit0SyswPWVO3aFRwj4CYAUStQEIKBKwAQocR2RMaW1WVVg0RndCR2FZNFkwdk9kZ3lUM3J3PRIkODNjZmM4Y2QtZWUyNi00MjJlLThmYjgtNmI3YTMyYjFjZjFkGAAgACgAMNuNlYGIMjjajpWBiDJA2o6VgYgyShxORjAzRWFjc0RIOVZRRXk5TmtsUmxVNTVTclU9WiciJf////8AAAAE/TJGMEdCdW00YytHZURkQklXSFRWSUNkai9Faz1l4kFvbMI+AmAFErABCBwSqwEKHEVZTzJIazlvSXNmTzgrN0I3RXZpWWN1MnNrRT0SJDc2ZjZiZTMzLTc4NTEtNDVjMy1iMWM5LTBhNjkyYWM0ODJjZhgAIAAoADDg6a+F3jE4guuvhd4xQILrr4XeMUocYmM2NE8vUW5VWDBHbkV1RFdkQUZFRkpwcXJNPVoiIiD///+pOWZTTHF4YnloaXQxUzVLOHlHVmdheFJxR2t3PWXRk0Yawj4CYAUSrwEIFhKqAQocV2JlUEh1MHhJN0Vxek53RElWK0hBM0dEU0N3PRIkMDljZGMwOTAtZWFhZi00YThlLWI4YWQtNDQ0YTk3NzRiYTY2GAAgACgAMK3UlOi4MTiK1ZTouDFAitWU6LgxShxoUUc2NEZLblZ6WlkrSnJtbWJNUm5Cc3RiTlE9WiEiH///70xGbjNLMmtPQTVlSUhEMW5PYmFmc3lzVFZlaz1lZ9jZKsI+AmAFEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDk3OGY0OTJiLWExNjktNTIzMS04NzljLTQ4OWQ3M2Y1MWMzOBgAIAAoADDh9LLF4jA4j/yyxeIwQI/8ssXiMEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKvAQgVEqoBChxGa3IwZEpCNzZHZkFwTmJqWkZvZzB6ZFFKREE9EiRmNjgxYWQwMS05OTNkLTQ3ZTktODkyNy1lOGNmODFhODA1ZDgYACAAKAAw3ZCYv/cxOMeo4PitMUDHqOD4rTFKHDd4c2VocktmK2x3MUtzdXgwR2R4TEVkbGdxZz1aISIf//+8Zncyck8zMkhMSXZYT3pXdHB0VUtwelYwZnBzPWWJo64Qwj4CYAUSrgEIFBKpAQocREF6WExIaWJFL2s4MVFjbTdqYnJPWEZ1M0dNPRIkODk4NTg2ZTctMjU4Mi00M2FmLTkzMDUtOWQ4NzNkYmNjNzYzGAAgACgAMJOQ2pr3MTic6eiMoDFAnOnojKAxShxnMG5iVGlNNGhuZ3NtSXNiT1I5aE5Ld2pXTVE9WiAiHv/9c2tRb1JpU0dNczh1WEcwNng2cEJDaSs2ZjVFPWWJo64Qwj4CYAUSrwEIGRKqAQoca1J3YWlsQUp4Mk4xVWFHazMxdFFrVUdJY3VZPRIkNjdhMjYwNjMtNjNhMS00YTA4LWFiNGYtMWQ4YTY5YThkMDE2GAAgACgAMLDKzL+/MTifq8y/vzFAn6vMv78xShxvdDVZL3BhcHdBZGVRbkZpcmNqck0wdk1oQTA9WiEiH////VN3SnFkT0NpVEVGUkh3MUd2WHF0S2FFZ0o2ST1lhc08w8I+AmAFErABCB4SqwEKHFkrcmlIU3E2T1V0d1hwc1ZsTXZKS3FMSFpQOD0SJDQ4MzJiMGZkLWI2Y2ItNGM4ZC1iYjYyLTVmZTQ3NzQ1YzVjORgAIAAoADDKsK7z7jE4tbGu8+4xQLWxrvPuMUocaUVxWGMyckswYzJac1pUYTMxb25zYkFjbTNjPVoiIiD////1ODlwRFJyZ3IrMUYyM1JwQ08vL1VOa2hxUTM4PWU9MrJbwj4CYAUSrgEIExKpAQocenRzVnF4a1psY0FWNXpyWTNTM2hLQ0RCR1pjPRIkZjgxMzQ3YzQtNzhjNS00ODEzLTkzMmItNjMwMzMwOTczZTQwGAAgACgAMLCdjprsMTjYnNyMoDFA2JzcjKAxShxHTTFKL292V2JoMU16M3lQdS9vNVdDTHl1YjQ9WiAiHv/6S2RudzVCQndXam41cjhmeVhHcTlNZjc4dFNFPWWJo64Qwj4CYAUStAEIIRKvAQocMVRFMU8yanBJU2p1OXhKZnMrQmo0cWlOclA0PRIkZDg5YWI5ODEtZTYxNS00NGM4LTkxZTUtYzNkMmMxNmY4ZTRlGAAgACgAMPunj6z1MTjSqY+s9TFA0qmPrPUxShw5WmRLOWhBZStNNFpTVU1RQU1QRG9Wb2NmeWs9WiYiJP////8AAAAEb2xwR3QwWVNFVnphcTNzQkgyNHl5QVp3WmMwPWVLboc4wj4CYAUSrQEIBxKoAQocWXNRSmJyMXZBQlJpYkluU0VNU250VDY1SEJFPRIkODEwNTgxNWMtZWE3MC00ZjkyLThjOGItMTdmZTRmYzM2MTA5GAAgACgAMKHl78D8MDjr5e/A/DBA6+XvwPwwShw0WEpQcDZhVkZwWkRkNURNSENxaG16Z1FpMTQ9Wh8iHbdhMXpsS2doZTROWmZWL1lmd3hWZ3laQWdSLzA9ZQAAAADCPgJgBRKuAQgSEqkBChx1Y3ZkSVM1b2hodkdpRW8rNG01YUdXRDNCUVU9EiQ0YzU3ZmUyMS00ZjkxLTQwNWYtOTJlZC1kOWZhNDFkMTUyMjAYACAAKAAw3Oady+wxOJKvsaSgMUCSr7GkoDFKHFlrZ1hmL0M0cnpUWjl5M1drSWRBMy9YcStOWT1aICIe//dlN0hiak1DY1V2VENNTVZCSnFhZndMZytKOWM9Zer3e8nCPgJgBRKuAQgREqkBChxnenBMQWpBejIzUkRPTUhRK1h3Zkl2U3BRZjA9EiQyOTM4ZTBkNi0xNTQ5LTQwNjktYjVlZC05MWMxOTFiOTNkNDEYACAAKAAwrrT5058xOIO1+dOfMUCDtfnTnzFKHEtHNEdTM1dDa0NrOTFyem83RGhDaWQ1Y09QWT1aICIe//U5czNUb0cwUGVSK0ZlQ2MxYURsK0ZWbDVQVUk9Zer3e8nCPgJgBRKtAQgMEqgBChxZV2JldkQ4N3ViYUVJeWRZRkRzZVdjY3kraHM9EiQ1YzNmYmNlZS1kYTIyLTQzMmUtOTYzMi0yMWE4ZjczMTEzNWIYACAAKAAwp+XvwPwwOLvn78D8MEC75+/A/DBKHE9xaGtWYkZRT0FhSHVueXFDMmRzb0FiWlJRdz1aHyId/VRJdmlmOXVCazF6Y2VWSXlaUTMvVlRNRU9NMD1lAAAAAMI+AmAFEq0BCBASqAEKHDViNWg2U092QktxQTJzNWdTNHR4SFBoT3d4cz0SJGE3NDVjZGZjLWFlYWQtNDNhNi1hYWQ0LTk0YTk1YTQ1NGNlYRgAIAAoADCn4o30kDI4l9/3lv8wQJff95b/MEocaitJNTMxRU4rOG4rV1o3YWNRVTVTKzdHS01NPVofIh3/VUtCS1dCNEVRbUJUMTJYNkRMRnNvTmIwV3ZzPWVGGPhxwj4CYAUSrQEIDhKoAQocc3BIWmI1ZXp2a1VoTUxiSHFKWkVxbUdxODVFPRIkZmY5ZDA4MzQtMjY1YS00YTVkLWI0MjAtZmViNWNiYmU5NTIzGAAgACgAMPXatrarMjjxzsOX+DBA8c7Dl/gwShxuNkZuUTBGMGhRZ0dMVU9uNEFxakIrNVExNWc9Wh8iHagrM0lGWGxkaGdiMGhHN3NYM0pEYUdFQUFWalE9Zf2cjErCPgJgBRKwAQggEqsBChxCNHRmNlRJVkRFa3FaLzZRVWtVSjdQU0plVlE9EiQ3ODk0MmFiNS05MzMyLTQ4MWMtOWFmNi1lOTYyMGE0Yzc4MWIYACAAKAAwopaOrPUxONWXjqz1MUDVl46s9TFKHGN2Vnl3WTNlb25ISmRxMjcyNitDQXUyOUFQaz1aIiIg/////mpuK3g1TkJnUGtmVGFzN29rZ3dmVENhOEpyUT1ld7e4t8I+AmAFEqwBCAYSpwEKHGRWd3BKL1lXczVRU2dPSFpSR0REM0t1NjBKMD0SJDg5Yjk5ZjRlLTU0OTEtNDQxYS04ZDY1LTAxMzVmNWQ3MjJlYRgAIAAoADCk5e/A/DA48+bvwPwwQPPm78D8MEocMEhDd3lBbFFZcnJndHFCQktsS3pOOFE0S1FRPVoeIhxvOTl5aThOcURzbXFLS3paSnhSUzZCOVE2Tlk9ZdjWavTCPgJgBRKtAQgPEqgBChx3TE1QcG0wOENiekF2UElPMDFXZFUyek9MT0U9EiQxMWE2NTFiZi01MGQ1LTQxNDEtYjBkNS0wZDVkNGU4M2Y3ZjAYACAAKAAw0+KWntExONnm78D8MEDZ5u/A/DBKHDdqQjA4NDZ3cEhMYzhjR2cxcWdsZW5jcnVoRT1aHyId/WRUYkFNU2xnMHFiWlRNWnA5bUpvdHUrNUEvWT1lqPzSeMI+AmAFErUBCCsSsAEKHDZvek14MmJKRmcxWFdwTjNQYTZMSGRJL3Nqcz0SJDAzZDE4YTBiLTg0MjUtNGRlZi1iODU5LTMwYWQ0ZGM4ODc5ZhgAIAAoADCooI/vmzI4+KGP75syQPihj++bMkocMXprU25lWVZqS1NUdmJ2QURiZlZxSk52bHRJPVonIiX/////AAAABdFlSDJqMWJ4RlZ6T0Nwc3VkbmhMSlpKcTNKbTA9ZQ2IEA/CPgJgBRKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRmZDgwMjRiNi02OTI5LTU0NmYtYWE0Zi0zOGRmMWJlMjY4NDkYACAAKAAw4fSyxeIwOPD7ssXiMEDw+7LF4jBKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASrwEIFxKqAQocSkxqUW9ibzlpTDJxTms0SnRIUWt5bXFDYy9rPRIkZmEwMTU2MmYtZWI2YS00YTgxLWJhNmQtYjNjYmM4MTkwOGM1GAAgACgAMJ2fm6C/MTid8pmgvzFAnfKZoL8xShxCZWM1M1B2bkdOZHVxN3BnbGlBOVAyeUtNNmM9WiEiH///91QxWkxsblI1RTlhSE5kRUJhRkl3YnJzZEFLST1l6vd7ycI+AmAFEq0BCA0SqAEKHExiTHZoV3JMNDhVSFRQUDZ0R1pNZ2taS3RHaz0SJGQ0OGE5ODJmLTYxMmUtNGRkNi04M2FlLTBhOTNmMzFlOGNkOBgAIAAoADDZ3Yu1qzI41OfvwPwwQNTn78D8MEocOCtDMWd3dnRSU2hYVlBMdUY2c2lIL21zR1QwPVofIh3+eDVWT1k0YjFaU1EyT2FxWUdIbVdwbzVJS0JzPWX9nIxKwj4CYAUSjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkOWZkMTI5MTUtYzgxMy01NGNlLTkxZDMtY2Q1NTA4Y2VjODMxGAAgACgAMOH0ssXiMDiZ/rLF4jBAmf6yxeIwShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAEq8BCBsSqgEKHEY0RTQvY05nWm5CRE4yWk4xYlBqOHNuZGNtTT0SJDU4MmJmNzcyLTQwMWUtNGY4OC1hNjEwLWM0MDA0ZTU2ZmIwZBgAIAAoADD8tuuX1DI43NT1i8IxQNzU9YvCMUocQnJDbUVCQmhkMXNuYy9JNU1jSWROcHJIZkxVPVohIh////9ScmcrUnpJajAyRWFoQ1JCL01YNURkQ0NzcUU9ZUnaI6LCPgJgBRKvAQgYEqoBChxoZGo3TVByM1EwRFFFYnNCM0lLU28wSVIxQUk9EiQwMTE3ZTA3Yi02ZDhmLTQwZTQtYTRkNy1jN2UzN2Q1M2Q4YTYYACAAKAAwnpvKv78xOIOcyr+/MUCDnMq/vzFKHGtkZ3hkTjhZTVRmNkxwTHIwZ2NLNGxYNExpST1aISIf///7cWJwbCtVQzc2NGNyT3lrSENDWDVwaFJWbFpRPWUvza8fwj4CYAUSrQEICxKoAQocajAzc0ZwME1aZDRmZXdWeW1FK0llY1pwR1pBPRIkNzMwMWFjNjctYWMxNi00MjgyLTlmNmEtYWEyYzQ3NjM1Njk0GAAgACgAMKbl78D8MDij5+/A/DBAo+fvwPwwShxPQ1ByREd0akZxTDFSUjVRVlUwQkZOUlJDMG89Wh8iHftJMWxLUmdCSktpc1lpSk5xd0llNVppZDRWREE9ZTj5OTPCPgJgBRK1AQglErABChx1SlE1SWQ5WFllUjRuRGRRMzFadldpU09SSzg9EiQwMDNhZDJkNy1hZDgwLTQzMjktYjkwYy1kMDE1MjZmZmFlOGYYACAAKAAwudaZ/4cyOIzYmf+HMkCM2Jn/hzJKHFFOMjJhMTFGU3NsTm80RWdDeVk4cW5pV2ZnVT1aJyIl/////wAAAATuVi9wN3hxSGFhR1dEZ2dsZkdDZGRJeDBoZ2VRPWUWSmTfwj4CYAUSrwEIGhKqAQocYVZkejdwUFh0YkduMEVKTVB6aEhQV1hxTDZnPRIkOTcwZWJiYTMtOTIzMy00MTg2LWIzMmYtOWJhYzAwYzU1M2RlGAAgACgAML+N1YvCMTj8jtWLwjFA/I7Vi8IxShxCMkJCalNvUHVGYVhyTEgwWGFKNnRUUDF5SVk9WiEiH////0M2ZzQxWTRmRjJwNHYxNnVWZThDVnlVMWU4dz1leKjzJMI+AmAFEq0BCAkSqAEKHDA4M2h0OXVmcVVrN0ZzQVUxTHJUUTZjTEdCMD0SJGY2MWMwMDlhLWRhZjctNDVmYS05OWM1LTdhOThlZDQyNTA1YxgAIAAoADCp5e/A/DA48ufvwPwwQPLn78D8MEocY0lTZGtrajRSaUUxZkNLWWRTRkhOdU5hQmo0PVofIh3tVTNDa3l4TmRiN1dtSU5aYzd0ZHdTUXkzaitBPWVJ9uKpwj4CYAUStAEIMBKvAQocem01WlpuWEFKZXZhamNyLzljTlg3bmVvbGpRPRIkNTY1MjhhMmMtNmNmZS00YzVmLWI1OGUtY2YwM2M0ZjFlNzY2GAAgACgAMOLr95PfMjig8PeT3zJAoPD3k98yShxGQ2Y5L1ZzUlFrZUs5eFRvQmp0WDFlNVM5TWM9WiYiJP////8AAAAGSERpNkI1WmdKdTNnR08zdHZDZ3lJckhNL3p3PWV8Gc7Swj4CYAUStQEILRKwAQocVTNMVWMzenQ4RXZMVStwOE1xZlh0cTRrdkRNPRIkNDlkMWQ3NGUtZDVjYi00NDE3LTkwN2QtM2ViNTVjYTViZmEzGAAgACgAMImJkYOiMjiGjJGDojJAhoyRg6IyShx0Q0d3R3MwNEgzZmRIUllWNkhhR2pHMlhNdFk9WiciJf////8AAAAF9HdPM1d2V2Vhdk1rRTEyWG5PYXlXSFA3VVZnOD1ldV+GJcI+AmAFErABCB0SqwEKHE1wRVYzZnkyU0wxV1grT2NIbUlmVXkrMFc2QT0SJDlhOWE3YjYwLTUxMDktNDA4ZS05NTkzLWU2MjAxN2MzZjlhYhgAIAAoADCO+OKOzTI4w5LMuOcxQMOSzLjnMUocSDRGVUVYTnZqSitZTXlLSElFaDlvbkcwY2JjPVoiIiD////URTFBMm96dUNWbC85eXNXdzZTclNYcGZybEQwPWU4FCTFwj4CYAUSrQEIChKoAQocaC9qRjcrYzFtWHBaUDM4MnFSV2pQelI0TWxBPRIkYjgzNDk5NTYtOGI2NS00NTI0LWJmZWUtYzE3OTljZjJjMDc4GAAgACgAMKXl78D8MDiL5+/A/DBAi+fvwPwwShwrd29QQWVDS1I1SSs2eTlLbjRaTE9uSzZ0bjg9Wh8iHfZMSktLVkE0Q1JlL1hxaFNQRk12NWVacGlSUEE9ZQAAAADCPgJgBRKtAQgIEqgBChxXeVBSdXNkc1YvRFNuT1BhblI3R1d1UjdyM1k9EiRlYmM0NWM1NS1lOGRhLTQxMDMtYWRkYi1hZDI5NmM0YzhjODIYACAAKAAwouXvwPwwOL/m78D8MEC/5u/A/DBKHFZRWG1RMFhSM3lHUnNVdHRqUktEbmpYbHFDRT1aHyId20VqV2padEo5WnFweVQ4UVYxOGlZdURuRFR3Zz1lg9Mc+sI+AmAFMAA4AA==",
+   "version": 1
+}
