@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
-import 'package:provider/provider.dart';
 
 //  async permite que main() ejecute código de manera asíncrona, lo que significa
 //que la app no se congela mientras se carga el archivo .env.
@@ -12,25 +11,26 @@ import 'package:provider/provider.dart';
 //ejecutarse antes de que las variables de entorno se carguen, lo que podría
 //causar errores.
 main() async {
-  await dotenv.load();
+  // await dotenv.load();
   runApp(
-    MultiProvider(
-      providers: [
-        // ChangeNotifierProvider(create: (_) => ThemeProvider()),
-        // ChangeNotifierProvider(create: (_) => FishesProvider()),
-        // ChangeNotifierProvider(create: (_) => LoadingProvider()),
-        // ChangeNotifierProvider(create: (_) => CrocodilesProvider()),
-        // ChangeNotifierProvider(
-        //   create: (context) => AnimalsProvider(
-        //     catsProvider: CatsProvider(),
-        //     dogsProviders: DogsProviders(),
-        //     fishesProvider: context.read<FishesProvider>(),
-        //     crocodilesProvider: context.read<CrocodilesProvider>(),
-        //   ),
-        // ),
-      ],
-      child: const MyApp(),
-    ),
+    // MultiProvider(
+    // providers: [
+    // ChangeNotifierProvider(create: (_) => ThemeProvider()),
+    // ChangeNotifierProvider(create: (_) => FishesProvider()),
+    // ChangeNotifierProvider(create: (_) => LoadingProvider()),
+    // ChangeNotifierProvider(create: (_) => CrocodilesProvider()),
+    // ChangeNotifierProvider(
+    //   create: (context) => AnimalsProvider(
+    //     catsProvider: CatsProvider(),
+    //     dogsProviders: DogsProviders(),
+    //     fishesProvider: context.read<FishesProvider>(),
+    //     crocodilesProvider: context.read<CrocodilesProvider>(),
+    //   ),
+    // ),
+    // ],
+    // child:
+    const MyApp(),
+    // ),
   );
 }
 
@@ -40,7 +40,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Gym App',
+      title: 'Gestor de Pagos',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
@@ -95,5 +95,15 @@ class _MyHomePageState extends State<MyHomePage> {
         child: const Icon(Icons.add),
       ),
     );
+  }
+}
+
+Future<void> loadEnv() async {
+  try {
+    await dotenv.load(fileName: "assets/config.env");
+    print("ENV cargado correctamente");
+    print("API_KEY: ${dotenv.env['API_KEY']}");
+  } catch (e) {
+    print("Error cargando ENV: $e");
   }
 }
